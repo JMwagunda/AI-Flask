@@ -1,6 +1,8 @@
 # AI-Flask-Translator
 This project is an AI Translator that leverages the power of artificial intelligence to translate text from one language to another. It provides a simple and intuitive web interface for users to enter the text they want to translate and select the target language.
 
+Access the live application [here](https://juddai-translator.azurewebsites.net/)
+
 # Features
 Translate text from one language to another using AI-powered translation.
 
